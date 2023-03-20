@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**rishissahu/rishissahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hello, I am Rishi Sahu **
 
-Here are some ideas to get you started:
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ♂️ Pronouns (He/His/Him)
+- 📍 I live in Bhopal, India
+- I am currently working with technologies based on Javascript. Technologies such as ReactJS, NodeJS.
+- I do Frontend Development, UI Engineering, and Development related stuff.
+- My Tech Stack: NextJS, TailwindCSS, Figma
+- Languages I know: JavaScript, Java, C/C++, SQL, HTML, CSS/SCSS
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+- My socials are listed below
+  - LinkedIn at [rishisahu09](https://www.linkedin.com/in/rishisahu09)
+  - Portfolio/Website at [rishisahu](https://rishisahu.me)
+  - Instagram at [rishisahuuu](https://instagram.com/rishisahuuu)
+  - Mail me at **developerrishisahu@gmail.com** regarding any work or if you just wanna connect
